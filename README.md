@@ -1,7 +1,7 @@
 # Description
 This repositories include 5 files that healp create fast and easy bots for Telegram messanger.
 
-# 1. types.ts
+$ 1. types.ts
 It's parse of Telegram bot API page https://core.telegram.org/bots/api to the TypeScript format.
 
 # 2. bot.ts
