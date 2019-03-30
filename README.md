@@ -18,5 +18,5 @@ Basic file with parameters for TypeScript compiler.
 
 # Manual
 1. Open main.ts file and fille the variables:
-  SPREADSHEET_URL - full URL to the Google sheet that will be used as the lof-file.
+  <br>SPREADSHEET_URL - full URL to the Google sheet that will be used as the lof-file.
   
