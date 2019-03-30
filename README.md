@@ -1,3 +1,3 @@
-# Telegram bot API for TypeScript development.
+# Description
 
 description
