@@ -18,5 +18,6 @@ Basic file with parameters for TypeScript compiler.
 
 # Manual
 1. Open main.ts file and fille the variables:
-<br>SPREADSHEET_URL - full URL to the Google sheet that will be used as the lof-file.
-  
+<br><strong>SPREADSHEET_URL</strong> - full URL to the Google sheet that will be used as the log-file.
+<br><strong>SHEET_NAME</strong> - the name of sheet for writing. If the shett with this name is present, that it's will be used. If it's absent, that will be create a new sheet with this name.
+<br><strong>SHEET_NAME</strong> - the name of sheet for writing. If the shett with this name is present, that it's will be used. If it's absent, that will be create a new sheet with this name.
