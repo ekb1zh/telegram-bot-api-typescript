@@ -13,6 +13,7 @@ class Log {
         // Checking parameters
         if(!spreadsheetUrl) throw new Error("Spreadsheet url");
         if(!sheetName) throw new Error("Sheet name");
+        if(!timeZone) throw new Error("Timezone");
         
         // Getting spreadsheet
         type Spreadsheet = GoogleAppsScript.Spreadsheet.Spreadsheet;
