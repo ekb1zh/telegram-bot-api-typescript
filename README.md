@@ -1,5 +1,5 @@
 # Description
-This repositories include 5 files that help you fast and easy create bots for Telegram messenger.
+This repositories include 5 files that help fast and easy create bots for Telegram messenger.
 
 <h2>1. types.ts</h2>
 It's parse of Telegram bot API <a href="https://core.telegram.org/bots/api">page</a> to the TypeScript code.
@@ -8,10 +8,10 @@ It's parse of Telegram bot API <a href="https://core.telegram.org/bots/api">page
 It's implementation of the types.ts and linkage to Google apps script as the server for bot.
 
 <h2>3. log.ts</h2>
-Need for writing notes to the Google sheet as the log.
+It's need for writing notes to the Google sheet as the log.
 
 <h2>4. main.ts</h2>
-Main file.
+The main file.
 
 <h2>5. tsconfig.json</h2>
 Basic file with parameters for TypeScript compiler.
@@ -23,11 +23,12 @@ Basic file with parameters for TypeScript compiler.
 <br><strong>SHEET_NAME</strong> - the name of sheet for writing. If the shett with this name is present, that it's will be used. If it's absent, that will be create a new sheet with this name.
 <br><strong>TIMEZONE</strong> - timezone that will be used as the time of notes in log.
 <br><strong>TELEGRAM_BOT_TOKEN</strong> - <a href="https://core.telegram.org/bots/api#authorizing-your-bot">token</a>.
-<br><p>3. First launch.</p>
-Open script in the browser, and execute an init function. It's need for the initialization script on the Telegram server. After this, you bot must working. Good luck!
+<p>3. First launch.</p>
+<br>Open script in the browser, and execute an init function. It's need for the initialization script on the Telegram server.
+<br>After this, you bot must working. Good luck!
 
 # References
-<p><a href="https://developers.google.com/apps-script/guides/typescript">Google apps script and TypeScript</a></p>
-<p><a href="https://developers.google.com/apps-script/guides/clasp">Clasp overview</a></p>
-<p><a href="https://github.com/google/clasp">Clasp commands</a></p>
-<p><a href="https://www.typescriptlang.org/docs/handbook/compiler-options.html">Typescript</a></p>
+<br><a href="https://developers.google.com/apps-script/guides/typescript">Google apps script and TypeScript</a>
+<br><a href="https://developers.google.com/apps-script/guides/clasp">Clasp overview</a>
+<br><a href="https://github.com/google/clasp">Clasp commands</a>
+<br><a href="https://www.typescriptlang.org/docs/handbook/compiler-options.html">Typescript</a>
