@@ -8,10 +8,10 @@ It's parse of Telegram bot API <a href="https://core.telegram.org/bots/api">page
 It's implementation of the types.ts and linkage to Google apps script as the server for bot.
 
 <h2>3. log.ts</h2>
-It's need for writing notes to the Google sheet as the log.
+Need for writing notes to the Google sheet as the log.
 
 <h2>4. main.ts</h2>
-The main file.
+Main file.
 
 <h2>5. tsconfig.json</h2>
 Basic file with parameters for TypeScript compiler.
