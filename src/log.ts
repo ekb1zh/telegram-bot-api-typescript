@@ -1,4 +1,4 @@
-// Writing log-data in Googlesheet
+// Writing log-data in Google sheet
 class Log {
 
     // Fields
