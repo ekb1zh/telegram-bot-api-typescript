@@ -19,13 +19,12 @@ Basic file with parameters for TypeScript compiler.
 # Manual
 <p>1. Prepare the project as stated in the references below.</p>
 <p>2. Open main.ts file and fill the variables:</p>
-<p><strong>SPREADSHEET_URL</strong> - full URL to the Google sheet that will be used as the log-file.</p>
-<p><strong>SHEET_NAME</strong> - the name of sheet for writing. If the shett with this name is present, that it's will be used. If it's absent, that will be create a new sheet with this name.</p>
-<p><strong>TIMEZONE</strong> - timezone that will be used as the time of notes in log.</p>
-<p><strong>TELEGRAM_BOT_TOKEN</strong> - <a href="https://core.telegram.org/bots/api#authorizing-your-bot">token</a>.
+<strong>SPREADSHEET_URL</strong> - full URL to the Google sheet that will be used as the log-file.
+<strong>SHEET_NAME</strong> - the name of sheet for writing. If the shett with this name is present, that it's will be used. If it's absent, that will be create a new sheet with this name.
+<strong>TIMEZONE</strong> - timezone that will be used as the time of notes in log.
+<strong>TELEGRAM_BOT_TOKEN</strong> - <a href="https://core.telegram.org/bots/api#authorizing-your-bot">token</a>.
 <p>3. First launch.</p>
-<p>Open script in the browser, and execute an init function. It's need for the initialization script on the Telegram server.</p>
-<p>After this, you bot must working. Good luck!</p>
+Open script in the browser, and execute an init function. It's need for the initialization script on the Telegram server. After this, you bot must working. Good luck!
 
 # References
 <p><a href="https://developers.google.com/apps-script/guides/typescript">Google apps script and TypeScript</a></p>
