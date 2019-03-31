@@ -29,7 +29,7 @@ Open script in the browser, and execute an init function. It's need for the init
 <br>After this, you bot must working. Good luck!
 
 # References
-<br><a href="https://developers.google.com/apps-script/guides/typescript">Google apps script and TypeScript</a>
+<a href="https://developers.google.com/apps-script/guides/typescript">Google apps script and TypeScript</a>
 <br><a href="https://developers.google.com/apps-script/guides/clasp">Clasp overview</a>
 <br><a href="https://github.com/google/clasp">Clasp commands</a>
 <br><a href="https://www.typescriptlang.org/docs/handbook/compiler-options.html">Typescript</a>
