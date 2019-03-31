@@ -23,9 +23,9 @@ Basic file with parameters for TypeScript compiler.
 <p><strong>TIMEZONE</strong> - timezone that will be used as the time of notes in log.</p>
 <p><strong>TELEGRAM_BOT_TOKEN</strong> - <a href="https://core.telegram.org/bots/api#authorizing-your-bot">token</a>.
 <p>2. First launch.</p>
-<p>Open script in browser, and execute an init function. It's need for the initialization script on the Telegram server.</p> 
+<p>Open script in the browser, and execute an init function. It's need for initialization script on the Telegram server.</p>
 
-# For beginners
+# References
 <p><a href="https://developers.google.com/apps-script/guides/typescript">Google apps script and TypeScript</a></p>
 <p><a href="https://developers.google.com/apps-script/guides/clasp">Clasp overview</a></p>
 <p><a href="https://github.com/google/clasp">Clasp commands</a></p>
