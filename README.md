@@ -24,7 +24,7 @@ Basic file with parameters for TypeScript compiler.
 <br><strong>TIMEZONE</strong> - timezone that will be used as the time of notes in log.
 <br><strong>TELEGRAM_BOT_TOKEN</strong> - <a href="https://core.telegram.org/bots/api#authorizing-your-bot">token</a>.
 
-<p>3. First launch.</p>
+<br><p>3. First launch.</p>
 Open script in the browser, and execute an init function. It's need for the initialization script on the Telegram server.
 <br>After this, you bot must working. Good luck!
 
