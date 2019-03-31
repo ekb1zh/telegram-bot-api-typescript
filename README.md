@@ -1,19 +1,19 @@
 # Description
 This repositories include 5 files that help fast and easy create bots for Telegram messenger.
 
-<h2>1. types.ts</h2>
+<h3>1. types.ts</h3>
 It's parse of Telegram bot API <a href="https://core.telegram.org/bots/api">page</a> to the TypeScript code.
 
-<h2>2. bot.ts</h2>
+<h3>2. bot.ts</h3>
 It's implementation of the types.ts and linkage to Google apps script as the server for bot.
 
-<h2>3. log.ts</h2>
+<h3>3. log.ts</h3>
 It's need for writing notes to the Google sheet as the log.
 
-<h2>4. main.ts</h2>
+<h3>4. main.ts</h3>
 The main file.
 
-<h2>5. tsconfig.json</h2>
+<h3>5. tsconfig.json</h3>
 Basic file with parameters for TypeScript compiler.
 
 # Manual
